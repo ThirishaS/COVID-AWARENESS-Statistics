@@ -1,0 +1,41 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+.top-wrapper-logo{
+    font-size: 30px;
+    color: red;
+    border-bottom: 2px solid gray;
+    text-align: left;
+}
+.top-wrapper-list{
+    font-size: 25px;
+    color: green;
+    text-align: center;
+}
+.container p{
+    font-size: 30px;
+    color: blue;
+}
+.container ul{
+    font-size: 25px;
+}
+.header-logo{
+    float:left;
+    font-size:50px;
+    padding:20px 40px;
+    color:red;
+    
+  }
+  .header-list {
+    float:left;
+    
+  }
+  .header-list a{
+    float:left;
+    padding:33px 20px;
+  }
